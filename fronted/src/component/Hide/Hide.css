@@ -1,0 +1,17 @@
+.HideButton {
+    width: 200px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3897f0;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+.HideButton:hover {
+    background-color: #2980b9;
+    transform: scale(1.05);
+}

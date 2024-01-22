@@ -1,0 +1,14 @@
+.followBut {
+  padding: 5px 10px;
+  font-size: 14px;
+  width: 200px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.already-followed {
+  background-color: #ccc;
+  color: #666;
+  width: 120px;
+  height: 50px;
+}

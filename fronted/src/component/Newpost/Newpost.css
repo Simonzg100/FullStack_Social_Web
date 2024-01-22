@@ -1,0 +1,47 @@
+/* Newpost.module.css */
+.new-post-container {
+  margin-top: 10%;
+  margin-left: 25%;
+  height: 100%;
+  width: 50%;
+}
+
+.NewPostInput,
+.NewPostText {
+  width: 90%;
+  margin: 10px 0;
+  padding: 8px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.NewPostButton {
+  margin-top: 20px;
+  width: 150px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  margin-right: 20px;
+  background-color: #3897f0;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.NewPostButtonn:hover {
+  background-color: #2980b9;
+}
+
+.uploadButton {
+  margin-top: 20px;
+  width: 150px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  margin-right: 20px;
+  background-color: #3897f0;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}

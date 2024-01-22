@@ -1,0 +1,39 @@
+.userListPage {
+  margin-top: 10%;
+  margin-left: 40%;
+}
+
+
+.following-list .followers {
+  margin: 20 20px;
+}
+
+.return-search-buttons {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  text-align: center;
+  position: relative;
+  margin: 10px 0;
+}
+
+.return-search-buttons button {
+  width: 200px;
+  height: 50px;
+  font-size: 14px;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.username-and-button {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.username {
+  margin-right: 8px;
+}

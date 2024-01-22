@@ -1,0 +1,581 @@
+[33mcommit 91b6ede475fc0790d71eec1d4c1ab8d7fc83fcb4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 87e2ec3 0952a89
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Thu Nov 9 19:53:06 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 87e2ec36952852772d02b49acfc06fb2344318b3[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Thu Nov 9 19:53:03 2023 -0500
+
+    fix eslint
+
+[33mcommit 0952a895305fe21b2200a4c3d1f4cfa12475a829[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Thu Nov 9 19:44:35 2023 -0500
+
+    new update
+    
+    new update
+
+[33mcommit beb266b6e25a73530d23733e1d0ace07459254e9[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Thu Nov 9 19:29:27 2023 -0500
+
+    done
+    
+    we done
+
+[33mcommit 77092b80da20ca76d5378d7c5603db0c1269ea70[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Thu Nov 9 17:51:57 2023 -0500
+
+    hi
+    
+    changed eslint, still fixing
+
+[33mcommit d240067826397c5f896a24ad36f0c3e94a9940ab[m
+Merge: d984ef0 7c5085e
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Thu Nov 9 16:20:42 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit d984ef016f1b768dae0847fb92d4d10f3f994e35[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Thu Nov 9 16:17:00 2023 -0500
+
+    hi
+    
+    hi
+
+[33mcommit 7c5085e36458d35c6738498da2e9e904388e826c[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Thu Nov 9 00:10:58 2023 -0500
+
+    fix fronted css
+
+[33mcommit 61e0179f82233cf1a19f7ae41dd89ac23fd55168[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Thu Nov 9 00:00:59 2023 -0500
+
+    fix eslint
+
+[33mcommit 14322cff814fd5b54b1dd96be4b5da27907f175b[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Wed Nov 8 23:26:43 2023 -0500
+
+    add userstruct test
+
+[33mcommit a7d870293bee64ef853f7487735d2f052057ecef[m
+Merge: dac4aea 7029a16
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Wed Nov 8 23:14:26 2023 -0500
+
+    fix
+
+[33mcommit dac4aea94089230dd62b15e98a9a53409e18f8e1[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Wed Nov 8 23:12:12 2023 -0500
+
+    fix test
+
+[33mcommit 7029a1663f6d33579da69aff6d2b46d20532d5a5[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 19:52:08 2023 -0500
+
+    new
+
+[33mcommit 3c00231a7c74fcf971d3ca84e84f8bab0e8a3f4e[m
+Merge: 41dc0e1 481a63f
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 19:51:44 2023 -0500
+
+    hi
+
+[33mcommit 41dc0e12a9ca7903202686c856ce8784a20d5269[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 19:50:39 2023 -0500
+
+    hi
+
+[33mcommit 481a63f83e1e311efd6401e4f7449cfaa1c4fbc4[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Wed Nov 8 19:46:08 2023 -0500
+
+    deletepost test fixed
+
+[33mcommit 241a32c769f296317fd4cf5e7ed9763dd8fa43cd[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 19:30:54 2023 -0500
+
+    fix
+
+[33mcommit ded4c2d262b0b52f9d917160cfdf0ad9b9b81b41[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 19:08:11 2023 -0500
+
+    fixed update and create
+
+[33mcommit eb711242975b38cd59f8499f21a3dc7497408b42[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 18:52:43 2023 -0500
+
+    testcomplete
+
+[33mcommit fc0fc638ce7d4bcc070061b09dcec1fc944982d9[m
+Merge: b3aac49 04f9649
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 18:15:30 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit b3aac4930c3caf33dc8047f273be62ea5bd5bbc5[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 18:15:27 2023 -0500
+
+    hi
+
+[33mcommit 04f9649684c0867d5b35b5e2e38c8e6289de5eee[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Wed Nov 8 00:17:31 2023 -0500
+
+    create&delete&update post tests added
+
+[33mcommit 262b26a5f29a9fb0bf19647cac3b81cb6cfb6fe7[m
+Merge: d128e18 7032fd1
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Wed Nov 8 00:00:35 2023 -0500
+
+    update
+    
+    hi
+
+[33mcommit d128e184f3b8626afe5bf5003136048f540fa736[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 23:44:06 2023 -0500
+
+    hi
+
+[33mcommit 7032fd1b137e57681be2f2a7b05c80c34d324457[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 23:27:53 2023 -0500
+
+    complete register test
+
+[33mcommit c9d373cea0ff42ae07ec153527e13d7ed3052dcf[m
+Merge: d7da606 6888b14
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 22:53:00 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit d7da6061d027b6f73f06c69da92e2e410e1afd3a[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 22:50:12 2023 -0500
+
+    fix css
+
+[33mcommit 6888b1404a33e82f36c22259fbcb1ee440dd33eb[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 22:32:24 2023 -0500
+
+    getallpostpassed
+
+[33mcommit a822e9156282ce66231979240a2f1ad9926fa725[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Tue Nov 7 22:03:50 2023 -0500
+
+    searchUserByUsername test added
+
+[33mcommit de8f0d032013764711b4eedc9facaac70f287656[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 21:50:23 2023 -0500
+
+    hi
+
+[33mcommit acc67ff4d17172912ffd30e84bb5a2c7cf29be60[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 21:14:36 2023 -0500
+
+    completed version
+
+[33mcommit bbe57d2a3e7b5d168c4d84171d78c49f9b455d33[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Tue Nov 7 20:36:47 2023 -0500
+
+    follow-related api testing added
+
+[33mcommit 0b49c08fa541abc9791f16c0b7455ccddcf856bd[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 17:44:44 2023 -0500
+
+    fix delete comment backend
+
+[33mcommit f0c92b7baf41d1a043755e5354f2a1ad8efa98a6[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 15:39:57 2023 -0500
+
+    fix api test
+
+[33mcommit a4d68e367aee0088a342e46607b9cfed5d64be18[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 15:38:15 2023 -0500
+
+    post api test
+
+[33mcommit aed2cec465efccf907703469edf4b550cdad2d56[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 15:37:03 2023 -0500
+
+    create test
+
+[33mcommit 0bedb652c54d530bdf79818d7a096e45ba28efaa[m
+Merge: 6e85915 9b79c9b
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 13:48:41 2023 -0500
+
+    merge
+
+[33mcommit 6e85915c4d4cb3bd06926c502dc36e89e26f4529[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 13:47:05 2023 -0500
+
+    fix post
+
+[33mcommit 9b79c9be19eb5d45b020595b2a56cc661a5b915f[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 01:36:55 2023 -0500
+
+    fixed
+    
+    hi
+
+[33mcommit 50e8cf192cbd385ddba22ec7dfeefb5c26515784[m
+Merge: cb20d12 4d64132
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 01:01:29 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit cb20d1248ac28af6bd15dbc36987f070686a394c[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Tue Nov 7 01:00:40 2023 -0500
+
+    fixed update and newpost
+
+[33mcommit 4d64132b67d159ee1fb1ba6604b070fe95b27b28[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 00:32:06 2023 -0500
+
+    fix server
+
+[33mcommit 04d94972dec07cfe942b43020c9ffdde3fbd49af[m
+Merge: a93497b 6c6d970
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 00:30:36 2023 -0500
+
+    fix
+
+[33mcommit a93497b0809d4ff764243361513ba6441a579816[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 00:29:30 2023 -0500
+
+    fix new post
+
+[33mcommit fcb2acacd867e4f737a35ee715d1ce957b80419e[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Tue Nov 7 00:25:10 2023 -0500
+
+    fix new post
+
+[33mcommit 6c6d970a46663ce8daa023a91d31caf336f86e81[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 23:56:50 2023 -0500
+
+    fixed
+
+[33mcommit 6a2bf823bae153871866f96ed6425ffec449d9c4[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 23:55:32 2023 -0500
+
+    upload media
+
+[33mcommit a77361de8bcdd2e3a2ccf3186cb4f1a7cd4e95ae[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 22:47:29 2023 -0500
+
+    finished fixing
+
+[33mcommit 618db42a5ee10d029790e269e02753efd36bdacd[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 22:36:13 2023 -0500
+
+    fixed conflict
+
+[33mcommit 898f3d9d949e24a6af106ff3f1fa87945464cfb5[m
+Merge: 95345ad 376b57b
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 21:51:15 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 95345ade286f5e4bd9903c52e156c9ae11970265[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 21:51:04 2023 -0500
+
+    fix css
+
+[33mcommit 376b57b4cf78265707ddb0c986dfc30b354ceff2[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 21:44:20 2023 -0500
+
+    fixing
+    
+    fixing
+
+[33mcommit 1c2a131de81a31e2a96694b373431ce3d8574a1e[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 18:01:06 2023 -0500
+
+    fix upload
+
+[33mcommit b04ee662f8955c71d3e8c630af08365b8ccf6fb5[m[33m ([m[1;31morigin/mainfix[m[33m)[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 11:14:59 2023 -0500
+
+    fix css
+
+[33mcommit 33ac1bbfa0f54ab39b36a638a485b9b151455d57[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 03:49:28 2023 -0500
+
+    Merge branch 'fix-git'
+
+[33mcommit ecc1f61491fbfa91958d21ecca27d8465a6b1f69[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 03:41:44 2023 -0500
+
+    Squashed commit of the following:
+    
+    commit 3c40447eee1cdfdb3dc22b0ed0d61a0249c87865
+    Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+    Date:   Mon Nov 6 03:33:18 2023 -0500
+    
+        hi
+
+[33mcommit 0fd0d4e680e7c0e133bc999f6563b249f9e65c9d[m
+Merge: fc3f62e 7f7b2ea
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 03:28:56 2023 -0500
+
+    fixing2
+
+[33mcommit fc3f62eca4bb76a8d4dd3946e20a1e7b13102a19[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 03:25:43 2023 -0500
+
+    fixing
+    
+    fixing
+
+[33mcommit 7f7b2ea3b4ae8cd26078a08407afccfe57325608[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 03:16:07 2023 -0500
+
+    fix login css
+
+[33mcommit fc4e7aa353a8b8b4b67475875eb84d6051d9b3a1[m
+Merge: 491731a 34fabde
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 02:58:52 2023 -0500
+
+    fix
+
+[33mcommit 491731ac5257a9851015da3ef61c5a9e662b930c[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 02:51:56 2023 -0500
+
+    fix login and activity feed css
+
+[33mcommit 34fabde1f738b6bcdc5328c3a5980c4402f930b9[m
+Merge: a03c9b7 8023b04
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 02:27:41 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit a03c9b70b35df53057d0a35141ceb09207b90c7e[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Mon Nov 6 02:27:39 2023 -0500
+
+    new update
+
+[33mcommit 8023b046d395c54809371c93f7fad8e0443611d1[m
+Merge: 57b42cd c57a1e8
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 00:43:38 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 57b42cd0e679a251ff754a01fbe679b8f2bdf96b[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Mon Nov 6 00:43:35 2023 -0500
+
+    fix postmapper
+
+[33mcommit c57a1e85f827066cbcb4f623fc36d53e59a256f2[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sun Nov 5 23:02:02 2023 -0500
+
+    Compeleted integration to backend
+    
+    working on new features
+
+[33mcommit a8fc2ea75155d18e7abc0a00671515008f35fe67[m
+Merge: 414374a d960cb7
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sun Nov 5 17:02:08 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 414374a12b917284b6937f266331055db0e6707a[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sun Nov 5 17:00:36 2023 -0500
+
+    hi
+    
+    hi
+
+[33mcommit d960cb78a1533ca05741957137bcbf23ba49d80f[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Sun Nov 5 15:20:24 2023 -0500
+
+    like & comment API added
+
+[33mcommit 50f22bbe22b089ecc534fc38341c75c9c0e59797[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sun Nov 5 14:00:01 2023 -0500
+
+    fix postmapper
+
+[33mcommit cee22e6635431d74266d285df32c18b6bfbda3d2[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sun Nov 5 13:32:30 2023 -0500
+
+    complete mappers
+
+[33mcommit df749794249b009f92c7830ae7a91f56d2f1bf6e[m
+Merge: 08c35a2 41ffe14
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sun Nov 5 11:34:58 2023 -0500
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 08c35a2489328dbcf70fea3424f15d0a8ae101ec[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sun Nov 5 11:34:55 2023 -0500
+
+    fix update post
+
+[33mcommit 41ffe14ccb3dde6af3e2b2be4b5b85595a06cff1[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Sun Nov 5 10:46:55 2023 -0500
+
+    deletepost fixed
+
+[33mcommit d5b0214d4f9386f8fb3a4ea8fe0ec623765a1fff[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sun Nov 5 00:20:48 2023 -0400
+
+    fix searchUserByUsername
+
+[33mcommit 69349a630fa0b3d35611119057951ec6963d2f90[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sat Nov 4 22:35:48 2023 -0400
+
+    hi
+
+[33mcommit 8e78558f3c4289115093a483e93b0473d4a9717e[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 22:14:35 2023 -0400
+
+    fix addfollower
+
+[33mcommit 633fb4dff213436d0ac198c4304ff16a56adeb61[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 22:11:04 2023 -0400
+
+    fix user mapper
+
+[33mcommit 85d9542c1cc49cff6197ab3582eb5a6884003681[m
+Merge: b847075 9cc6bc2
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 21:32:53 2023 -0400
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit b847075174cef60ad1c2c536c8fd8d2d9f203110[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 21:30:46 2023 -0400
+
+    add delete follower
+
+[33mcommit 9cc6bc2bcabee20eaafe035ffb8f38d8e5b24cf3[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Sat Nov 4 21:30:39 2023 -0400
+
+    addfollower updated
+
+[33mcommit 9dafa1dda970a996ecacdc31854f897e4c405559[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 21:23:55 2023 -0400
+
+    fix usermapper
+
+[33mcommit dfa3d4d4334e29f89521938a30ce286fadd1c468[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 18:32:30 2023 -0400
+
+    fix getUserPosts api
+
+[33mcommit 7669fc6e300f542613ac8703f7cdc0759815d492[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 18:29:45 2023 -0400
+
+    fix getuserposts
+
+[33mcommit dd099429865290ce8e062d7e557fcfac2bd382fb[m
+Author: Wei Zhang <simonzg100@gmail.com>
+Date:   Sat Nov 4 18:19:41 2023 -0400
+
+    fix create post
+
+[33mcommit 893ef07000ffd662af245569b0f40f0d54c4b6fa[m
+Merge: 931db3d 7fcb21c
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Sat Nov 4 18:09:06 2023 -0400
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
+
+[33mcommit 931db3dd8500e9c3d226da4f83c6e15bfbcaaf34[m
+Author: Olivia-SSS <songjunt@seas.upenn.edu>
+Date:   Sat Nov 4 18:08:20 2023 -0400
+
+    userstruct api added
+
+[33mcommit 7fcb21cd6f3cef843349297a48092029e0649e5f[m
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sat Nov 4 18:05:32 2023 -0400
+
+    almost done
+    
+    HI
+
+[33mcommit e1f56fb7bcf9d62508e95667847c520848bb721d[m
+Merge: 946270f 03b3c8e
+Author: Hankwbot <67296567+Hankwbot@users.noreply.github.com>
+Date:   Sat Nov 4 16:43:26 2023 -0400
+
+    Merge branch 'main' of https://github.com/cis557/group-project-groupofthree
